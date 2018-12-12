@@ -1,0 +1,1 @@
+This  is the first HTML/CSS assignment from The Odin Project, which involves recreating the Google homepage.
